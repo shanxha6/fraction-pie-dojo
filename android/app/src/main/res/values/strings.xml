@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fraction Pie Dojo</string>
+    <string name="app_title">FRACTION PIE DOJO</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="belt_path">BELT PATH</string>
+    <string name="scroll_title">FRACTION SCROLL</string>
+    <string name="scroll_short">SCROLL</string>
+    <string name="options_title">DOJO OPTIONS</string>
+    <string name="options_short">OPTIONS</string>
+    <string name="serve">SERVE</string>
+    <string name="resume">RESUME</string>
+    <string name="paused">PAUSED</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_body">ALL BELTS AND STREAKS WILL BE CLEARED</string>
+
+    <string name="tagline">CUT IT. FILL IT. OWN IT.</string>
+    <string name="splash_sub">SLICE · MATCH · MASTER</string>
+    <string name="splash_caption">WARMING THE OVEN</string>
+    <string name="hint_belt">FIVE CLEAN BOUTS EARN THE NEXT BELT</string>
+    <string name="hint_recap">REPLAY ANY PIE TO SEE THE CUT</string>
+
+    <string name="prompt_fill">FILL THE TARGET</string>
+    <string name="prompt_match">MATCH THE EQUAL PIE</string>
+    <string name="prompt_compare">TAP THE LARGER PIE</string>
+    <string name="new_belt">NEW BELT EARNED</string>
+    <string name="first_bout">FIRST BOUT OF THE DAY</string>
+    <string name="no_misses">NO MISSES THIS BOUT</string>
+    <string name="this_is">THIS IS %1$s</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+
+    <string name="bout_counter">BOUT %1$d / %2$d</string>
+    <string name="slices_label">SLICES %1$d</string>
+    <string name="score_value">%1$d</string>
+    <string name="progress_value">%1$d/%2$d</string>
+    <string name="belt_badge">%1$s · %2$d/%3$d</string>
+
+    <string name="stat_bouts">BOUTS TODAY</string>
+    <string name="stat_streak">BEST STREAK</string>
+    <string name="stat_clean">CLEAN</string>
+    <string name="stat_misses">MISSES</string>
+    <string name="stat_streak_short">STREAK</string>
+
+    <string name="headline_clean">CLEAN SWEEP</string>
+    <string name="headline_good">GOOD BOUT</string>
+    <string name="headline_keep">KEEP SLICING</string>
+    <string name="headline_master">MASTER OF THE DOJO</string>
+
+    <string name="opt_sound">SOUND</string>
+    <string name="opt_haptics">HAPTICS</string>
+    <string name="opt_large">LARGE NUMERALS</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+    <string name="state_locked">locked</string>
+    <string name="state_filled">filled</string>
+    <string name="state_empty">empty</string>
+    <string name="state_selected">selected</string>
+    <string name="state_disabled">nothing matched yet</string>
+
+    <string name="belt_white">WHITE BELT</string>
+    <string name="belt_yellow">YELLOW BELT</string>
+    <string name="belt_orange">ORANGE BELT</string>
+    <string name="belt_green">GREEN BELT</string>
+    <string name="belt_blue">BLUE BELT</string>
+    <string name="belt_purple">PURPLE BELT</string>
+    <string name="belt_brown">BROWN BELT</string>
+    <string name="belt_red">RED BELT</string>
+    <string name="belt_black">BLACK BELT</string>
+    <string name="belt_master">MASTER BELT</string>
+
+    <string name="skill_white">HALVES AND QUARTERS</string>
+    <string name="skill_yellow">THIRDS AND SIXTHS</string>
+    <string name="skill_orange">FIFTHS AND EIGHTHS</string>
+    <string name="skill_green">EQUIVALENCE WITH HALVES</string>
+    <string name="skill_blue">EQUIVALENCE WITH THIRDS</string>
+    <string name="skill_purple">COMPARE LIKE DENOMINATORS</string>
+    <string name="skill_brown">COMPARE UNLIKE DENOMINATORS</string>
+    <string name="skill_red">ADD LIKE DENOMINATORS</string>
+    <string name="skill_black">ADD UNLIKE DENOMINATORS</string>
+    <string name="skill_master">MIXED GAUNTLET</string>
+
+    <string name="term_numerator">NUMERATOR</string>
+    <string name="def_numerator">The top number counts the slices you take.</string>
+    <string name="term_denominator">DENOMINATOR</string>
+    <string name="def_denominator">The bottom number tells how many equal slices the whole pie has.</string>
+    <string name="term_equivalent">EQUIVALENT</string>
+    <string name="def_equivalent">Two fractions that cover the same amount of pie.</string>
+    <string name="term_unit">UNIT FRACTION</string>
+    <string name="def_unit">One single slice of a whole, like one third.</string>
+    <string name="term_common">COMMON DENOMINATOR</string>
+    <string name="def_common">One slice size that fits both fractions at once.</string>
+    <string name="term_compare">COMPARE</string>
+    <string name="def_compare">Cut both pies the same way, then count the slices.</string>
+    <string name="term_whole">WHOLE</string>
+    <string name="def_whole">Every slice taken, so the pie is complete.</string>
+
+    <string name="cd_logo">Fraction Pie Dojo emblem</string>
+    <string name="cd_hero_pie">A whole baked pie waiting to be cut</string>
+    <string name="cd_pie">Pie cut into %1$d slices with %2$d filled</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_pause">Pause the bout</string>
+</resources>
